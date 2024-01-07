@@ -3,7 +3,7 @@
 
 $randomArray = range("a", "z");
 
-$data = "";
+$data = "aaa";
 
 
 echo json_encode($randomArray);
